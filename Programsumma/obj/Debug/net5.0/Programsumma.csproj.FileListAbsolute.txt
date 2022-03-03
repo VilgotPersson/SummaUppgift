@@ -1,0 +1,16 @@
+C:\Users\Admin\Desktop\Programsumma\bin\Debug\net5.0\Programsumma.exe
+C:\Users\Admin\Desktop\Programsumma\bin\Debug\net5.0\Programsumma.deps.json
+C:\Users\Admin\Desktop\Programsumma\bin\Debug\net5.0\Programsumma.runtimeconfig.json
+C:\Users\Admin\Desktop\Programsumma\bin\Debug\net5.0\Programsumma.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Programsumma\bin\Debug\net5.0\Programsumma.dll
+C:\Users\Admin\Desktop\Programsumma\bin\Debug\net5.0\ref\Programsumma.dll
+C:\Users\Admin\Desktop\Programsumma\bin\Debug\net5.0\Programsumma.pdb
+C:\Users\Admin\Desktop\Programsumma\obj\Debug\net5.0\Programsumma.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Programsumma\obj\Debug\net5.0\Programsumma.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\Programsumma\obj\Debug\net5.0\Programsumma.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Programsumma\obj\Debug\net5.0\Programsumma.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Programsumma\obj\Debug\net5.0\Programsumma.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Programsumma\obj\Debug\net5.0\Programsumma.dll
+C:\Users\Admin\Desktop\Programsumma\obj\Debug\net5.0\ref\Programsumma.dll
+C:\Users\Admin\Desktop\Programsumma\obj\Debug\net5.0\Programsumma.pdb
+C:\Users\Admin\Desktop\Programsumma\obj\Debug\net5.0\Programsumma.genruntimeconfig.cache
